@@ -1,0 +1,34 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "Heroku test example",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsolovei25/List-MySQl.git"
+  },
+  "author": "BohdanSolovei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsolovei25/herokutest/issues"
+  },
+  "engines": {
+    "node": "13.11.x",
+    "npm": "6.13.x"
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "hbs": "^4.1.1",
+    "jsdom": "^16.2.2",
+    "mongoose": "^5.9.12",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  },
+  "homepage": "https://github.com/bsolovei25/herokutest#readme"
+}
